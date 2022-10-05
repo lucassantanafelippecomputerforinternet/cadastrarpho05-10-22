@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #4683b4bf;
+    color: white;
+    font-size: 15px;
+}
+.form{
+    height: 500px;
+    width: 500px;
+    margin-top: 100px;
+    margin-left: 700px;
+}
+#edit{
+    height: 70px;
+    width: 200px;
+    border: 3px solid rgba(0, 0, 0, 0.64);
+    border-radius: 10px;
+    background-color: rgba(26, 26, 50, 0.758);
+    color: white;
+    font-size: 20px;
+}
+.button{
+    height: 70px;
+    width: 200px;
+    border: 3px solid rgba(0, 0, 0, 0.64);
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.563);
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
